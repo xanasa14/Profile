@@ -1,2 +1,2 @@
 # Profile
-WebSite using CSS, JS, and PHP
+WebSite using CSS, HTML, JS, and PHP
